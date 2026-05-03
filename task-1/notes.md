@@ -1,17 +1,3 @@
-How to run
-WSL 
-make
-gdb ./app_32
--> break main
--> run
--> list/print (var)
--> step/next
--> disassemble main
-
--> layout src
--> layout asm
--> layout regs
-
 # 1
 
 Make hívásakor ez fut le:
